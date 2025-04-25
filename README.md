@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumedh Charjan</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRiODRhMWZmODdmNWM3ZTY5MzExNmY5N2FjMTdmMGRiMzBiNWRiMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTQ0MDcwN2tpaW9pc29ibXdpMHU5ZzJxc3hpcHcwOWxhaDJ0am1lYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YmZOBDYBcmWK4/giphy.gif" width="300" height="200" />
 </div>
 
 <h3 align="center">A Passionate Developer | Aspiring Programmer | VJTI</h3>
