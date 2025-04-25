@@ -13,16 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Sumedh Charjan</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Passionate Developer | Aspiring Programmer | VJTI </h3>
 
 - 🔭 I’m currently working on **Whiteboard Project**
-
 - 🌱 I’m currently learning **NEXTJS**
-
 - 💬 Ask me about **React,Vue**
-
 - 📫 How to reach me **sumedhcharjan321@gmail.com**
-
 - ⚡ Fun fact **I'm a professional Beatboxer**
 
 <h3 align="left">Connect with me:</h3>
