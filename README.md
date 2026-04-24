@@ -12,7 +12,7 @@
   </a>
 </p>
 
-- 🔭 I'm currently working on **Whiteboard Project**
+- 🔭 I'm currently working on **ML related stuffs**
 - 🌱 I'm currently learning **NEXTJS**
 - 💬 Ask me about **React, Vue**
 - 📫 How to reach me **sumedhcharjan321@gmail.com**
