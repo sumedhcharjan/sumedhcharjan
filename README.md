@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://github.com/sumedhcharjan">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React+and+Vue+Enthusiast;Always+learning+new+technologies&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Always+learning+new+technologies&center=true&width=380&height=45">
   </a>
 </p>
 
 - 🔭 I'm currently working on **ML related stuffs**
 - 🌱 I'm currently learning **NEXTJS**
-- 💬 Ask me about **React, Vue**
+- 💬 Ask me about **React**
 - 📫 How to reach me **sumedhcharjan321@gmail.com**
 - ⚡ Fun fact **I'm a professional Beatboxer**
 
